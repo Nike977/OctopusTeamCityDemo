@@ -1,0 +1,9 @@
+E:\OctopusTeamCitySampleProject\SampleDatabaseProject\bin\Debug\SampleDatabaseProject.dacpac
+E:\OctopusTeamCitySampleProject\SampleDatabaseProject\bin\Debug\SampleDatabaseProject.dll
+E:\OctopusTeamCitySampleProject\SampleDatabaseProject\bin\Debug\SampleDatabaseProject.pdb
+E:\OctopusTeamCitySampleProject\SampleDatabaseProject\obj\Debug\SampleDatabaseProject.dll
+E:\OctopusTeamCitySampleProject\SampleDatabaseProject\obj\Debug\SampleDatabaseProject.pdb
+E:\OctopusTeamCitySampleProject\SampleDatabaseProject\obj\Debug\Model.xml
+E:\OctopusTeamCitySampleProject\SampleDatabaseProject\obj\Debug\refactor.xml
+E:\OctopusTeamCitySampleProject\SampleDatabaseProject\obj\Debug\postdeploy.sql
+E:\OctopusTeamCitySampleProject\SampleDatabaseProject\obj\Debug\predeploy.sql
